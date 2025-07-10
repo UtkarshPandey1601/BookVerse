@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "name": "The Alchemist",
+    "cat": "paid",
+    "price": 180,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71aFt4+OTOL.jpg",
+    "title": "A magical story about following your dreams and finding your personal legend.",
+    "genre": "Fiction"
+  },
+  {
+    "id": 2,
+    "name": "To Kill a Mockingbird",
+    "cat": "paid",
+    "price": 220,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81gepf1eMqL.jpg",
+    "title": "A timeless story of racial injustice and childhood innocence in the American South.",
+    "genre": "Fiction"
+  },
+  {
+    "id": 3,
+    "name": "Pride and Prejudice",
+    "cat": "free",
+    "price": 0,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81NLDvyAHrL.jpg",
+    "title": "Jane Austen's masterpiece of wit, romance, and social commentary.",
+    "genre": "Fiction"
+  },
+  {
+    "id": 4,
+    "name": "1984",
+    "cat": "paid",
+    "price": 195,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91SZSW8qSsL.jpg",
+    "title": "George Orwell's chilling vision of a totalitarian future.",
+    "genre": "Fiction"
+  },
+  {
+    "id": 5,
+    "name": "Sapiens: A Brief History of Humankind",
+    "cat": "paid",
+    "price": 350,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/713jIoMO3UL.jpg",
+    "title": "How Homo sapiens became the dominant species on Earth.",
+    "genre": "History"
+  },
+  {
+    "id": 6,
+    "name": "The Guns of August",
+    "cat": "paid",
+    "price": 280,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/TheGunsOfAugust.jpg/250px-TheGunsOfAugust.jpg",
+    "title": "The outbreak of World War I and the first month of fighting.",
+    "genre": "History"
+  },
+  {
+    "id": 7,
+    "name": "A People's History of the United States",
+    "cat": "free",
+    "price": 0,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxhahQiCnlj1LpklC5GPNAzPYtP6_12EWf0A&s",
+    "title": "American history from the perspective of ordinary people and marginalized groups.",
+    "genre": "History"
+  },
+  {
+    "id": 8,
+    "name": "The Immortal Life of Henrietta Lacks",
+    "cat": "paid",
+    "price": 270,
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/The_Immortal_Life_Henrietta_Lacks_%28cover%29.jpg",
+    "title": "The true story of how one woman's cells revolutionized medical science.",
+    "genre": "History"
+  },
+  {
+    "id": 9,
+    "name": "Cosmos",
+    "cat": "paid",
+    "price": 320,
+    "image": "https://m.media-amazon.com/images/I/51e91glnHUL._SL500_.jpg",
+    "title": "Carl Sagan's journey through the universe and our place in it.",
+    "genre": "Science"
+  },
+  {
+    "id": 10,
+    "name": "The Origin of Species",
+    "cat": "free",
+    "price": 0,
+    "image": "https://cdn.kobo.com/book-images/7f7cb400-e00d-4608-9fd8-e8c672820781/1200/1200/False/the-origin-of-species-44.jpg",
+    "title": "Darwin's groundbreaking theory of evolution by natural selection.",
+    "genre": "Science"
+  },
+  {
+    "id": 11,
+    "name": "A Short History of Nearly Everything",
+    "cat": "paid",
+    "price": 340,
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/Bill_bryson_a_short_history.jpg",
+    "title": "Bill Bryson's humorous take on the history of science and discovery.",
+    "genre": "Science"
+  },
+  {
+    "id": 14,
+    "name": "The Psychology of Money",
+    "cat": "paid",
+    "price": 250,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDq1mypMX7-zPF2TnoyZFPY-NuAA_7Istrfw&s",
+    "title": "Timeless lessons on wealth, greed, and happiness.",
+    "genre": "Psychology"
+  },
+  {
+    "id": 15,
+    "name": "The Interpretation of Dreams",
+    "cat": "free",
+    "price": 0,
+    "image": "https://m.media-amazon.com/images/I/71IboOHtFZL.jpg",
+    "title": "Freud's revolutionary exploration of the unconscious mind.",
+    "genre": "Psychology"
+  },
+  {
+    "id": 16,
+    "name": "Man's Search for Meaning",
+    "cat": "paid",
+    "price": 180,
+    "image": "https://m.media-amazon.com/images/I/71pXEWqg-HL._AC_UC200,200_CACC,200,200_QL85_.jpg?aicid=community-reviews",
+    "title": "Viktor Frankl's profound insights from his experiences in Nazi concentration camps.",
+    "genre": "Psychology"
+  },
+  {
+    "id": 17,
+    "name": "Steve Jobs",
+    "cat": "paid",
+    "price": 420,
+    "image": "https://m.media-amazon.com/images/I/41zMqUFFkwL._AC_SY200_QL15_.jpg",
+    "title": "Walter Isaacson's definitive biography of the Apple co-founder.",
+    "genre": "Biography"
+  },
+  {
+    "id": 18,
+    "name": "Long Walk to Freedom",
+    "cat": "paid",
+    "price": 360,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbBm9aQyxFOJCAk9vghIiyJYTOU6KhcJ8t0A&s",
+    "title": "Nelson Mandela's autobiography of his journey from activist to president.",
+    "genre": "Biography"
+  },
+  {
+    "id": 19,
+    "name": "The Autobiography of Benjamin Franklin",
+    "cat": "free",
+    "price": 0,
+    "image": "https://m.media-amazon.com/images/I/71PEbzdxUNL._UF1000,1000_QL80_.jpg",
+    "title": "The founding father's account of his life and philosophy.",
+    "genre": "Biography"
+  },
+  {
+    "id": 20,
+    "name": "The 7 Habits of Highly Effective People",
+    "cat": "paid",
+    "price": 300,
+    "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781471195709/the-7-habits-of-highly-effective-people-revised-and-updated-9781471195709_hr.jpg",
+    "title": "Stephen Covey's timeless principles for personal and professional success.",
+    "genre": "Self-Help"
+  },
+  {
+    "id": 21,
+    "name": "Atomic Habits",
+    "cat": "paid",
+    "price": 280,
+    "image": "https://www.bookishadda.com/cdn/shop/files/230_f298f5c0-c116-4280-bef6-5d00db25b743.png?v=1701690525&width=1920",
+    "title": "James Clear's guide to building good habits and breaking bad ones.",
+    "genre": "Self-Help"
+  },
+  {
+    "id": 22,
+    "name": "How to Win Friends and Influence People",
+    "cat": "free",
+    "price": 0,
+    "image": "https://m.media-amazon.com/images/I/611OWa8x+WL._UF1000,1000_QL80_.jpg",
+    "title": "Dale Carnegie's classic guide to interpersonal skills and leadership.",
+    "genre": "Self-Help"
+  },
+  {
+    "id": 23,
+    "name": "The Power of Now",
+    "cat": "paid",
+    "price": 220,
+    "image": "https://m.media-amazon.com/images/I/51wk62SpJaL._SL500_.jpg",
+    "title": "Eckhart Tolle's spiritual guide to living in the present moment.",
+    "genre": "Self-Help"
+  },
+  {
+    "id": 24,
+    "name": "The Wealth of Nations",
+    "cat": "free",
+    "price": 0,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdE3F73b4e2KdoJBS_k_hId4bUprgeeao0Ng&s",
+    "title": "Adam Smith's foundational work on economics and capitalism.",
+    "genre": "Philosophy"
+  },
+  {
+    "id": 25,
+    "name": "Meditations",
+    "cat": "free",
+    "price": 0,
+    "image": "https://m.media-amazon.com/images/I/71FCbiv0tTL._UF1000,1000_QL80_.jpg",
+    "title": "Marcus Aurelius's personal reflections on Stoic philosophy and leadership.",
+    "genre": "Philosophy"
+  }
+]
